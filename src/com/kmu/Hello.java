@@ -6,5 +6,12 @@ package com.kmu;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("我是小黑提交了内容");
+          System.out.println("我是小白提交了内容");
+          System.out.println("我是小白提交了内容");
+          System.out.println("我是小白提交了内容");
+          System.out.println("我是小白提交了内容");
+          System.out.println("我是小白提交了内容");
+          System.out.println("我是小白提交了内容");
+          System.out.println("我是小白提交了内容");
     }
 }
