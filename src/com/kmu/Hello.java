@@ -14,5 +14,13 @@ public class Hello {
         System.out.println("你好，第一次创建，并且使用git");
         System.out.println("你好，第一次创建，并且使用git");
         System.out.println("你好，第一次创建，并且使用git");
+        System.out.println("你好，第一次创建，并且使用git");
+        System.out.println("你好，第一次创建，并且使用git");
+        System.out.println("你好，第一次创建，并且使用git");
+        System.out.println("你好，第一次创建，并且使用git");
+        System.out.println("你好，第一次创建，并且使用git");
+        System.out.println("你好，第一次创建，并且使用git");
+        System.out.println("你好，第一次创建，并且使用git");
+        System.out.println("你好，第一次创建，并且使用git");
     }
 }
